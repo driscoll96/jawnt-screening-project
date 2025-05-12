@@ -11,7 +11,7 @@ This project solves a real-world fintech use case using a FastAPI backend and a 
 
 ---
 
-## 🧠 Tech Stack & Design Decisions
+## Tech Stack & Design Decisions
 
 ### Backend (FastAPI + SQLAlchemy)
 
@@ -30,7 +30,7 @@ This project solves a real-world fintech use case using a FastAPI backend and a 
 
 ---
 
-## 🧪 Running Unit Tests (Backend)
+## Running Unit Tests (Backend)
 
 From the `app/` directory or project root:
 
